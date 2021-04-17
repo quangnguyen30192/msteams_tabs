@@ -1,4 +1,8 @@
 Refer: [Create embedded web experiences with tabs for Microsoft Teams](https://docs.microsoft.com/en-us/learn/modules/embedded-web-experiences/)
+- Create a custom Microsoft Teams personal tab
+- Create a custom Microsoft Teams channel or group tab
+- Implement authentication in a custom tab
+
 # bottab - Microsoft Teams App
 
 Generate a Microsoft Teams application.
