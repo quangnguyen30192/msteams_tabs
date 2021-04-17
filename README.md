@@ -1,3 +1,4 @@
+Refer: [Create embedded web experiences with tabs for Microsoft Teams](https://docs.microsoft.com/en-us/learn/modules/embedded-web-experiences/)
 # bottab - Microsoft Teams App
 
 Generate a Microsoft Teams application.
